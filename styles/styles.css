@@ -1,0 +1,106 @@
+h2 {
+    margin: 20px 0px 8px 0px;
+}
+p {
+    margin: 3px;
+}
+.container {
+    background-color: powderblue;
+    display: flex;
+    width: fit-content;
+    height: fit-content;
+    margin: 10px 15px;
+}
+.equal_box_1 {
+    background-color: grey;
+    height:40px;
+    width: 315px;
+    margin: 10px;
+}
+.equal_box_2 {
+    background-color: grey;
+    height:40px;
+    width: 315px;
+    margin: 10px 10px 10px 0px;
+}
+.box1 {
+    background-color: grey;
+    height:40px;
+    width: 200px;
+    margin: 15px;
+}
+.box2 {
+    background-color: grey;
+    height:40px;
+    width: 200px;
+    margin: 15px 15px 15px 0px;
+}
+.box3 {
+    background-color: grey;
+    height:40px;
+    width: 200px;
+    margin: 15px 15px 15px 0px;
+}
+.ubox1 {
+    background-color: grey;
+    height:40px;
+    width: 300px;
+    margin: 12px;
+    border: 2px solid black;
+}
+.ubox2 {
+    background-color: grey;
+    height:40px;
+    width: 150px;
+    margin: 12px 12px 12px 0px;
+    border: 2px solid black;
+}
+.ubox3 {
+    background-color: grey;
+    height:40px;
+    width: 150px;
+    margin: 12px 12px 12px 0px;
+    border: 2px solid black;
+}
+.dbox1 {
+    background-color: grey;
+    height:40px;
+    width: 150px;
+    margin: 12px;
+    border: 2px solid black;
+}
+.dbox2 {
+    background-color: grey;
+    height:40px;
+    width: 150px;
+    margin: 12px 12px 12px 0px;
+    border: 2px solid black;
+}
+.dbox3 {
+    background-color: grey;
+    height:40px;
+    width: 150px;
+    margin: 12px 12px 12px 0px;
+    border: 2px solid black;
+}
+.dbox4 {
+    background-color: grey;
+    height:40px;
+    width: 150px;
+    margin: 12px 12px 12px 0px;
+    border: 2px solid black;
+}
+.large {
+    background-color: grey;
+    height:40px;
+    width: 648px;
+    margin: 12px;
+    border: 2px solid black;
+}
+.containerEnd {
+    background-color: powderblue;
+    display: flex;
+    width: fit-content;
+    height: fit-content;
+    margin: -22px 15px;
+}
